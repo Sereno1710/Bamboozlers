@@ -1,7 +1,7 @@
 # Bamboozlers
-feup-lcom-proj
 
-# Group members:
+
+Group members:
 
   1.José Santos (up202108729@up.pt)
   2.Luís Du (up202105385@up.pt)
